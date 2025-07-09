@@ -1,1 +1,1 @@
-# Deep-Truth-A-Multimodal-Lie-Detection-System
+# DeepTruth: A Multimodal Lie Detection System
