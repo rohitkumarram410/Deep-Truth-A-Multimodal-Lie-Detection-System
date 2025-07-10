@@ -51,3 +51,7 @@
 - 🛡️ **Border Security & Surveillance Intelligence**
 
 ---
+
+## 🚀 Why This Matters
+
+This project explores the intersection of AI and human psychology, offering a non-intrusive, scalable, and real-time approach to understanding human behavior through facial expressions. As smart systems become more human-aware, tools like these can redefine the way we interpret and respond to emotions in both digital and real-world settings.
